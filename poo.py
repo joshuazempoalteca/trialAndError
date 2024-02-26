@@ -1,4 +1,4 @@
-a = "This shit is awesome"
+a = "This is awesome"
 b = "this is NOT awesome"
 c = 0
 d = 0
@@ -9,4 +9,4 @@ if c == "Yes":
 elif c == "No":
     print(b)
 else:
-    print("DONT YOU DARE FORGET HOW YOU BETRAYEEEEED ME")
+    print("DON'T YOU DARE FORGET HOW YOU BETRAYEEEEED ME (you didn't enter Yes or No correctly btw)")

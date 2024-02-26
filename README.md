@@ -1,3 +1,3 @@
 # trialAndError
-this is me testing to see if I push this will lead to an update to the README on github
+I'm messing around with stuff in this repo, don't mind me
 :)
